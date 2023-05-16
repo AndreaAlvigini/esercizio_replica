@@ -3,7 +3,7 @@ import java.util.Scanner;
 //package Esercizio_replica.esercizio5;
 
 public class AreaPerimetro {
-    public static void main(String[] args) {
+    public static void main(String[] args) {//ciao ciao 
         Scanner input = new Scanner(System.in);
         System.out.println("inserisci il lato");
         double lato = input.nextDouble();
