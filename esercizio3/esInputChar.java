@@ -10,7 +10,7 @@ public class esInputChar {
         System.out.println("Inserisci una parola");
         String parola = input.next();
         System.out.println("Inserisci una parola");
-        char carattere = input.next().charAt(2);
+        char carattere = input.next().charAt(2);//ff
         System.out.println("Il numero decimale è: " + numDec);
         System.out.println("La parola è: " + parola);
         System.out.println("Il carattere è: " + carattere);
