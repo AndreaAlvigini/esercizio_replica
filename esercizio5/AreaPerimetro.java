@@ -20,7 +20,7 @@ public class AreaPerimetro {
            
 
         System.out.println("il perimetro è "+ perimetro);
-        System.out.println("l'area è "+ area);
+        System.out.println("l'area è "+ area);//ciao
 
     }
 }
